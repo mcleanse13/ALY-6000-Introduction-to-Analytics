@@ -1,0 +1,1 @@
+ALY 6000 introduces students to data analytics using R, emphasizing statistics, probability, and data visualization. Through real-world datasets, students build foundational skills in mathematical analysis, data storytelling, and decision-making, preparing them to apply analytical tools and ethical practices in professional contexts.

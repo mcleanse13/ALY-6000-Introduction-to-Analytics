@@ -1,1 +1,1 @@
-
+This project explores conditional and dependent probability concepts through visual examples and R-based exercises. Using Venn diagrams and probability trees, I examined scenarios involving car features and colored balls to understand how events relate and influence each other. The project reinforced key probability principles while allowing me to practice R programming for data analysis. It also served as a culmination of my learning in ALY 6000, enhancing both my analytical thinking and technical coding skills in preparation for ALY 6010.

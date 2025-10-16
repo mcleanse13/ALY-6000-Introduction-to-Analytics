@@ -92,18 +92,6 @@ test_file("project1_tests.R")
 
 The output will show test results — aim for 100% passing.
 
-📄 Report Structure
-
-Your McLean_Project1_Report.pdf should include:
-
-Title Page – Name, course, project title, and date
-
-Introduction & Key Findings – Overview and insights
-
-Conclusion & Recommendations – Key takeaways
-
-Works Cited – Textbook, documentation, and online resources
-
 🧷 References
 
 Kabacoff, R. (2015). R in Action (2nd ed.). Manning Publications.

@@ -16,5 +16,3 @@ This project introduces fundamental R programming concepts and vector operations
 
 ## Key Learnings
 This project strengthened understanding of core R syntax, reproducible workflows, and data cleaning. It also introduced fundamental data visualization techniques using **ggplot2** and promoted best practices for script organization and documentation.
-
-Would you like me to make a slightly shorter version too — something more GitHub-portfolio–style (3–4 sentences) for the repo’s main description area at the top?
